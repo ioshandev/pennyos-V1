@@ -1,0 +1,7 @@
+{
+  "name": "pennyos-personal-finance",
+  "version": "2.0.0",
+  "private": true,
+  "description": "PennyOS personal money planning web app with a secure Gemini serverless endpoint",
+  "engines": { "node": ">=20" }
+}
